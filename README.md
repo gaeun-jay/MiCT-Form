@@ -18,13 +18,13 @@ Supports **English ↔ Ukrainian** language toggle and is fully responsive acros
 
 ## Project Structure
 
-mict-form/
-├── index.html
-└── images/
-├── image1.png   # Gaeun
-├── image2.png   # Dayoung
-├── image3.png   # Nayoung
-└── image4.png   # JeongA
+    mict-form/
+    ├── index.html
+    └── images/
+        ├── image1.png   # Gaeun
+        ├── image2.png   # Dayoung
+        ├── image3.png   # Nayoung
+        └── image4.png   # JeongA
 
 ## Deployment
 
