@@ -18,15 +18,13 @@ Supports **English ↔ Ukrainian** language toggle and is fully responsive acros
 
 ## Project Structure
 
-\`\`\`
 mict-form/
 ├── index.html
 └── images/
-    ├── image1.png   # Gaeun
-    ├── image2.png   # Dayoung
-    ├── image3.png   # Nayoung
-    └── image4.png   # JeongA
-\`\`\`
+├── image1.png   # Gaeun
+├── image2.png   # Dayoung
+├── image3.png   # Nayoung
+└── image4.png   # JeongA
 
 ## Deployment
 
@@ -35,7 +33,7 @@ Hosted via **GitHub Pages**
 
 ## Colors
 
-| Role | Hex |
-|------|-----|
-| Point color | `#0A3FB4` |
-| Background | `#F5F5F5` |
+| Role | Hex | Preview |
+|------|-----|---------|
+| Point color | `#0A3FB4` | ![#0A3FB4](https://placehold.co/20x20/0A3FB4/0A3FB4.png) |
+| Background | `#F5F5F5` | ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png) |
